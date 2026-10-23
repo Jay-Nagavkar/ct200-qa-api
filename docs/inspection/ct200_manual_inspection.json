@@ -1,0 +1,4744 @@
+{
+  "file": "D:\\Projects\\Affinesurge\\ct200-qa-api\\data\\ct200_manual.pdf",
+  "page_count": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "CardioTrack CT-200 Home Blood",
+          "font": "NimbusSans-Bold",
+          "size": 22.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            62.26,
+            376.51,
+            92.55
+          ],
+          "block_bbox": [
+            33.0,
+            62.26,
+            376.51,
+            145.35
+          ],
+          "origin": [
+            33.0,
+            85.8
+          ]
+        },
+        {
+          "text": "Pressure Monitor — Technical &",
+          "font": "NimbusSans-Bold",
+          "size": 22.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            88.66,
+            371.65,
+            118.95
+          ],
+          "block_bbox": [
+            33.0,
+            62.26,
+            376.51,
+            145.35
+          ],
+          "origin": [
+            33.0,
+            112.2
+          ]
+        },
+        {
+          "text": "User Manual",
+          "font": "NimbusSans-Bold",
+          "size": 22.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            115.06,
+            163.81,
+            145.35
+          ],
+          "block_bbox": [
+            33.0,
+            62.26,
+            376.51,
+            145.35
+          ],
+          "origin": [
+            33.0,
+            138.6
+          ]
+        },
+        {
+          "text": "1. Device Overview",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            186.3,
+            182.51,
+            209.02
+          ],
+          "block_bbox": [
+            33.0,
+            186.3,
+            182.51,
+            209.02
+          ],
+          "origin": [
+            33.0,
+            203.95
+          ]
+        },
+        {
+          "text": "The CardioTrack CT-200 is an oscillometric, upper-arm blood pressure",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            227.78,
+            377.15,
+            242.89
+          ],
+          "block_bbox": [
+            33.0,
+            227.78,
+            377.15,
+            282.49
+          ],
+          "origin": [
+            33.0,
+            239.6
+          ]
+        },
+        {
+          "text": "monitor intended for home use by adult users. It measures systolic",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            240.98,
+            356.41,
+            256.09
+          ],
+          "block_bbox": [
+            33.0,
+            227.78,
+            377.15,
+            282.49
+          ],
+          "origin": [
+            33.0,
+            252.8
+          ]
+        },
+        {
+          "text": "pressure, diastolic pressure, and pulse rate, and stores up to 200",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            254.18,
+            349.71,
+            269.29
+          ],
+          "block_bbox": [
+            33.0,
+            227.78,
+            377.15,
+            282.49
+          ],
+          "origin": [
+            33.0,
+            266.0
+          ]
+        },
+        {
+          "text": "readings across two user profiles.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            267.38,
+            196.83,
+            282.49
+          ],
+          "block_bbox": [
+            33.0,
+            227.78,
+            377.15,
+            282.49
+          ],
+          "origin": [
+            33.0,
+            279.2
+          ]
+        },
+        {
+          "text": "1.1 Intended Use",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            304.18,
+            135.28,
+            321.9
+          ],
+          "block_bbox": [
+            33.0,
+            304.18,
+            135.28,
+            321.9
+          ],
+          "origin": [
+            33.0,
+            317.95
+          ]
+        },
+        {
+          "text": "The CT-200 is intended to non-invasively measure blood pressure and",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            332.76,
+            375.98,
+            347.87
+          ],
+          "block_bbox": [
+            33.0,
+            332.76,
+            375.98,
+            400.67
+          ],
+          "origin": [
+            33.0,
+            344.58
+          ]
+        },
+        {
+          "text": "pulse rate in adults with an arm circumference of 22–42 cm. It is not",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            345.96,
+            362.53,
+            361.07
+          ],
+          "block_bbox": [
+            33.0,
+            332.76,
+            375.98,
+            400.67
+          ],
+          "origin": [
+            33.0,
+            357.78
+          ]
+        },
+        {
+          "text": "intended for use on neonates, infants, or pregnant users, and is not a",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            359.16,
+            369.31,
+            374.27
+          ],
+          "block_bbox": [
+            33.0,
+            332.76,
+            375.98,
+            400.67
+          ],
+          "origin": [
+            33.0,
+            370.98
+          ]
+        },
+        {
+          "text": "diagnostic device — readings should be interpreted by a qualified",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            372.36,
+            350.93,
+            387.47
+          ],
+          "block_bbox": [
+            33.0,
+            332.76,
+            375.98,
+            400.67
+          ],
+          "origin": [
+            33.0,
+            384.18
+          ]
+        },
+        {
+          "text": "clinician.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            385.56,
+            75.17,
+            400.67
+          ],
+          "block_bbox": [
+            33.0,
+            332.76,
+            375.98,
+            400.67
+          ],
+          "origin": [
+            33.0,
+            397.38
+          ]
+        },
+        {
+          "text": "1.2 Indications and Contraindications",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            422.37,
+            261.85,
+            440.09
+          ],
+          "block_bbox": [
+            33.0,
+            422.37,
+            261.85,
+            440.09
+          ],
+          "origin": [
+            33.0,
+            436.14
+          ]
+        },
+        {
+          "text": "The device should not be used on the arm ipsilateral to a mastectomy,",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            450.94,
+            374.77,
+            466.06
+          ],
+          "block_bbox": [
+            33.0,
+            450.94,
+            378.38,
+            505.66
+          ],
+          "origin": [
+            33.0,
+            462.77
+          ]
+        },
+        {
+          "text": "on limbs with an active intravenous line, or on users with severe",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            464.14,
+            343.56,
+            479.26
+          ],
+          "block_bbox": [
+            33.0,
+            450.94,
+            378.38,
+            505.66
+          ],
+          "origin": [
+            33.0,
+            475.97
+          ]
+        },
+        {
+          "text": "arrhythmia without clinician guidance, since oscillometric measurement",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            477.34,
+            378.38,
+            492.46
+          ],
+          "block_bbox": [
+            33.0,
+            450.94,
+            378.38,
+            505.66
+          ],
+          "origin": [
+            33.0,
+            489.17
+          ]
+        },
+        {
+          "text": "can be unreliable in these cases.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            490.54,
+            193.19,
+            505.66
+          ],
+          "block_bbox": [
+            33.0,
+            450.94,
+            378.38,
+            505.66
+          ],
+          "origin": [
+            33.0,
+            502.37
+          ]
+        },
+        {
+          "text": "2. Physical and Electrical Specifications",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            530.36,
+            346.65,
+            553.08
+          ],
+          "block_bbox": [
+            33.0,
+            530.36,
+            346.65,
+            553.08
+          ],
+          "origin": [
+            33.0,
+            548.02
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            149.6,
+            387.0,
+            150.6
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            212.2,
+            387.0,
+            213.2
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            556.27,
+            387.0,
+            557.27
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    },
+    {
+      "page_number": 2,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "2.1 General Specifications",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            43.68,
+            193.23,
+            61.4
+          ],
+          "block_bbox": [
+            33.0,
+            43.68,
+            193.23,
+            61.4
+          ],
+          "origin": [
+            33.0,
+            57.45
+          ]
+        },
+        {
+          "text": "Parameter",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            66.09,
+            76.06,
+            119.89,
+            91.21
+          ],
+          "block_bbox": [
+            66.09,
+            76.06,
+            254.78,
+            91.21
+          ],
+          "origin": [
+            66.09,
+            87.83
+          ]
+        },
+        {
+          "text": "Value",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            225.43,
+            76.06,
+            254.78,
+            91.21
+          ],
+          "block_bbox": [
+            66.09,
+            76.06,
+            254.78,
+            91.21
+          ],
+          "origin": [
+            225.43,
+            87.83
+          ]
+        },
+        {
+          "text": "Measurement method",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            95.71,
+            146.49,
+            110.82
+          ],
+          "block_bbox": [
+            39.5,
+            95.71,
+            221.43,
+            110.82
+          ],
+          "origin": [
+            39.5,
+            107.53
+          ]
+        },
+        {
+          "text": "Oscillometric",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            95.71,
+            221.43,
+            110.82
+          ],
+          "block_bbox": [
+            39.5,
+            95.71,
+            221.43,
+            110.82
+          ],
+          "origin": [
+            158.49,
+            107.53
+          ]
+        },
+        {
+          "text": "Pressure range",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            115.41,
+            114.7,
+            130.52
+          ],
+          "block_bbox": [
+            39.5,
+            115.41,
+            224.51,
+            130.52
+          ],
+          "origin": [
+            39.5,
+            127.23
+          ]
+        },
+        {
+          "text": "0–299 mmHg",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            115.41,
+            224.51,
+            130.52
+          ],
+          "block_bbox": [
+            39.5,
+            115.41,
+            224.51,
+            130.52
+          ],
+          "origin": [
+            158.49,
+            127.23
+          ]
+        },
+        {
+          "text": "Pulse range",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            135.11,
+            98.2,
+            150.22
+          ],
+          "block_bbox": [
+            39.5,
+            135.11,
+            219.63,
+            150.22
+          ],
+          "origin": [
+            39.5,
+            146.93
+          ]
+        },
+        {
+          "text": "40–199 bpm",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            135.11,
+            219.63,
+            150.22
+          ],
+          "block_bbox": [
+            39.5,
+            135.11,
+            219.63,
+            150.22
+          ],
+          "origin": [
+            158.49,
+            146.93
+          ]
+        },
+        {
+          "text": "Accuracy (pressure)",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            154.81,
+            137.91,
+            169.92
+          ],
+          "block_bbox": [
+            39.5,
+            154.81,
+            206.47,
+            169.92
+          ],
+          "origin": [
+            39.5,
+            166.63
+          ]
+        },
+        {
+          "text": "±3 mmHg",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            154.81,
+            206.47,
+            169.92
+          ],
+          "block_bbox": [
+            39.5,
+            154.81,
+            206.47,
+            169.92
+          ],
+          "origin": [
+            158.49,
+            166.63
+          ]
+        },
+        {
+          "text": "Accuracy (pulse)",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            174.51,
+            121.41,
+            189.62
+          ],
+          "block_bbox": [
+            39.5,
+            174.51,
+            180.8,
+            189.62
+          ],
+          "origin": [
+            39.5,
+            186.33
+          ]
+        },
+        {
+          "text": "±5%",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            174.51,
+            180.8,
+            189.62
+          ],
+          "block_bbox": [
+            39.5,
+            174.51,
+            180.8,
+            189.62
+          ],
+          "origin": [
+            158.49,
+            186.33
+          ]
+        },
+        {
+          "text": "Power source",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            194.21,
+            106.74,
+            209.32
+          ],
+          "block_bbox": [
+            39.5,
+            194.21,
+            321.73,
+            209.32
+          ],
+          "origin": [
+            39.5,
+            206.03
+          ]
+        },
+        {
+          "text": "4x AA batteries or 6V DC adapter",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            194.21,
+            321.73,
+            209.32
+          ],
+          "block_bbox": [
+            39.5,
+            194.21,
+            321.73,
+            209.32
+          ],
+          "origin": [
+            158.49,
+            206.03
+          ]
+        },
+        {
+          "text": "Display",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            213.91,
+            75.56,
+            229.02
+          ],
+          "block_bbox": [
+            39.5,
+            213.91,
+            215.94,
+            229.02
+          ],
+          "origin": [
+            39.5,
+            225.73
+          ]
+        },
+        {
+          "text": "Backlit LCD",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            158.49,
+            213.91,
+            215.94,
+            229.02
+          ],
+          "block_bbox": [
+            39.5,
+            213.91,
+            215.94,
+            229.02
+          ],
+          "origin": [
+            158.49,
+            225.73
+          ]
+        },
+        {
+          "text": "2.1.1.1 Battery Life Under Typical Use",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            252.41,
+            229.24,
+            267.56
+          ],
+          "block_bbox": [
+            33.0,
+            252.41,
+            229.24,
+            267.56
+          ],
+          "origin": [
+            33.0,
+            264.18
+          ]
+        },
+        {
+          "text": "Under typical use (three measurements per day), four AA alkaline",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            276.56,
+            352.12,
+            291.67
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            33.0,
+            288.38
+          ]
+        },
+        {
+          "text": "batteries provide approximately 300 measurement cycles before",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            289.76,
+            345.4,
+            304.87
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            33.0,
+            301.58
+          ]
+        },
+        {
+          "text": "requiring replacement. The device displays a low",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            302.96,
+            270.81,
+            318.07
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            33.0,
+            314.78
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            270.81,
+            303.03,
+            274.22,
+            318.01
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            270.81,
+            314.78
+          ]
+        },
+        {
+          "text": "battery icon once",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            274.22,
+            302.96,
+            357.98,
+            318.07
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            274.22,
+            314.78
+          ]
+        },
+        {
+          "text": "remaining capacity falls below 15%.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            316.16,
+            207.23,
+            331.27
+          ],
+          "block_bbox": [
+            33.0,
+            276.56,
+            357.98,
+            331.27
+          ],
+          "origin": [
+            33.0,
+            327.98
+          ]
+        },
+        {
+          "text": "2.2 Cuff Specifications",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            352.97,
+            171.03,
+            370.69
+          ],
+          "block_bbox": [
+            33.0,
+            352.97,
+            171.03,
+            370.69
+          ],
+          "origin": [
+            33.0,
+            366.74
+          ]
+        },
+        {
+          "text": "The standard cuff supplied with the CT",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            381.54,
+            221.31,
+            396.66
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            33.0,
+            393.37
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            221.31,
+            381.61,
+            224.72,
+            396.59
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            221.31,
+            393.37
+          ]
+        },
+        {
+          "text": "200 fits arm circumferences of",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            224.72,
+            381.54,
+            372.04,
+            396.66
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            224.72,
+            393.37
+          ]
+        },
+        {
+          "text": "22–32 cm. A separate large cuff (part number CT200",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            394.74,
+            291.0,
+            409.86
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            33.0,
+            406.57
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            291.0,
+            394.81,
+            294.41,
+            409.79
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            291.0,
+            406.57
+          ]
+        },
+        {
+          "text": "LC) is available for",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            294.41,
+            394.74,
+            385.49,
+            409.86
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            294.41,
+            406.57
+          ]
+        },
+        {
+          "text": "32–42 cm and must be ordered separately; using the standard cuff",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            407.94,
+            357.06,
+            423.06
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            33.0,
+            419.77
+          ]
+        },
+        {
+          "text": "outside its rated range will produce inaccurate readings.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            421.14,
+            305.06,
+            436.26
+          ],
+          "block_bbox": [
+            33.0,
+            381.54,
+            385.49,
+            436.26
+          ],
+          "origin": [
+            33.0,
+            432.97
+          ]
+        },
+        {
+          "text": "3. Device Operation",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            460.96,
+            187.06,
+            483.68
+          ],
+          "block_bbox": [
+            33.0,
+            460.96,
+            187.06,
+            483.68
+          ],
+          "origin": [
+            33.0,
+            478.62
+          ]
+        },
+        {
+          "text": "3.1 Powering On and Profile Selection",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            515.05,
+            264.74,
+            532.77
+          ],
+          "block_bbox": [
+            33.0,
+            515.05,
+            264.74,
+            532.77
+          ],
+          "origin": [
+            33.0,
+            528.82
+          ]
+        },
+        {
+          "text": "Press and hold the power button for one second to power on the device.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            543.63,
+            383.98,
+            558.74
+          ],
+          "block_bbox": [
+            33.0,
+            543.63,
+            383.98,
+            558.74
+          ],
+          "origin": [
+            33.0,
+            555.45
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            74.18,
+            152.99,
+            75.18
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            74.18,
+            152.99,
+            94.88
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            93.88,
+            152.99,
+            94.88
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            74.18,
+            34.0,
+            94.88
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            74.18,
+            328.23,
+            75.18
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            327.23,
+            74.18,
+            328.23,
+            94.88
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            93.88,
+            328.23,
+            94.88
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            93.88,
+            152.99,
+            114.58
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            113.58,
+            152.99,
+            114.58
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            93.88,
+            34.0,
+            114.58
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            327.23,
+            93.88,
+            328.23,
+            114.58
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            113.58,
+            328.23,
+            114.58
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            34.0,
+            114.58,
+            151.99,
+            133.28
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            151.99,
+            113.58,
+            152.99,
+            134.28
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            133.28,
+            152.99,
+            134.28
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            113.58,
+            34.0,
+            134.28
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            39.5,
+            118.43,
+            83.51,
+            129.43
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            83.51,
+            118.43,
+            86.57,
+            129.43
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            86.57,
+            118.43,
+            114.7,
+            129.43
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            152.99,
+            114.58,
+            327.23,
+            133.28
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    },
+    {
+      "page_number": 3,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "Use the profile button to select User 1 or User 2 before beginning a",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            31.08,
+            359.49,
+            46.19
+          ],
+          "block_bbox": [
+            33.0,
+            31.08,
+            380.25,
+            72.59
+          ],
+          "origin": [
+            33.0,
+            42.9
+          ]
+        },
+        {
+          "text": "measurement; readings are stored against whichever profile is active at",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            44.27,
+            380.25,
+            59.39
+          ],
+          "block_bbox": [
+            33.0,
+            31.08,
+            380.25,
+            72.59
+          ],
+          "origin": [
+            33.0,
+            56.1
+          ]
+        },
+        {
+          "text": "the time of measurement.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            57.47,
+            157.72,
+            72.59
+          ],
+          "block_bbox": [
+            33.0,
+            31.08,
+            380.25,
+            72.59
+          ],
+          "origin": [
+            33.0,
+            69.3
+          ]
+        },
+        {
+          "text": "3.2 Cuff Inflation Sequence",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            92.73,
+            174.2,
+            107.88
+          ],
+          "block_bbox": [
+            33.0,
+            92.73,
+            174.2,
+            107.88
+          ],
+          "origin": [
+            33.0,
+            104.5
+          ]
+        },
+        {
+          "text": "On starting a measurement, the device inflates the cuff to an initial target",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            116.87,
+            386.4,
+            131.99
+          ],
+          "block_bbox": [
+            33.0,
+            116.87,
+            386.4,
+            184.79
+          ],
+          "origin": [
+            33.0,
+            128.7
+          ]
+        },
+        {
+          "text": "of 180 mmHg. If the user's pulse is not detected by 180 mmHg, the",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            130.07,
+            358.53,
+            145.19
+          ],
+          "block_bbox": [
+            33.0,
+            116.87,
+            386.4,
+            184.79
+          ],
+          "origin": [
+            33.0,
+            141.9
+          ]
+        },
+        {
+          "text": "device inflates in 40 mmHg increments up to a maximum of 299 mmHg",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            143.27,
+            378.39,
+            158.39
+          ],
+          "block_bbox": [
+            33.0,
+            116.87,
+            386.4,
+            184.79
+          ],
+          "origin": [
+            33.0,
+            155.1
+          ]
+        },
+        {
+          "text": "before aborting with an error. Deflation occurs in controlled steps of",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            156.47,
+            360.08,
+            171.59
+          ],
+          "block_bbox": [
+            33.0,
+            116.87,
+            386.4,
+            184.79
+          ],
+          "origin": [
+            33.0,
+            168.3
+          ]
+        },
+        {
+          "text": "approximately 3 mmHg to capture oscillometric pulse data.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            169.67,
+            318.48,
+            184.79
+          ],
+          "block_bbox": [
+            33.0,
+            116.87,
+            386.4,
+            184.79
+          ],
+          "origin": [
+            33.0,
+            181.5
+          ]
+        },
+        {
+          "text": "3.4 Auto Shutoff",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            206.48,
+            132.38,
+            224.2
+          ],
+          "block_bbox": [
+            33.0,
+            206.48,
+            132.38,
+            224.2
+          ],
+          "origin": [
+            33.0,
+            220.25
+          ]
+        },
+        {
+          "text": "To conserve battery, the CT",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            235.06,
+            169.33,
+            250.17
+          ],
+          "block_bbox": [
+            33.0,
+            235.06,
+            384.54,
+            276.57
+          ],
+          "origin": [
+            33.0,
+            246.88
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            169.33,
+            235.12,
+            172.74,
+            250.11
+          ],
+          "block_bbox": [
+            33.0,
+            235.06,
+            384.54,
+            276.57
+          ],
+          "origin": [
+            169.33,
+            246.88
+          ]
+        },
+        {
+          "text": "200 automatically powers off after 60",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            172.74,
+            235.06,
+            352.49,
+            250.17
+          ],
+          "block_bbox": [
+            33.0,
+            235.06,
+            384.54,
+            276.57
+          ],
+          "origin": [
+            172.74,
+            246.88
+          ]
+        },
+        {
+          "text": "seconds of inactivity on the home screen, and after 3 minutes of",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            248.26,
+            344.21,
+            263.37
+          ],
+          "block_bbox": [
+            33.0,
+            235.06,
+            384.54,
+            276.57
+          ],
+          "origin": [
+            33.0,
+            260.08
+          ]
+        },
+        {
+          "text": "inactivity if a measurement screen is left open without starting a reading.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            261.46,
+            384.54,
+            276.57
+          ],
+          "block_bbox": [
+            33.0,
+            235.06,
+            384.54,
+            276.57
+          ],
+          "origin": [
+            33.0,
+            273.28
+          ]
+        },
+        {
+          "text": "3.3 Result Display and Classification",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            298.27,
+            256.87,
+            315.99
+          ],
+          "block_bbox": [
+            33.0,
+            298.27,
+            256.87,
+            315.99
+          ],
+          "origin": [
+            33.0,
+            312.04
+          ]
+        },
+        {
+          "text": "After a completed measurement, the device displays systolic pressure,",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            326.84,
+            376.57,
+            341.96
+          ],
+          "block_bbox": [
+            33.0,
+            326.84,
+            380.27,
+            394.76
+          ],
+          "origin": [
+            33.0,
+            338.67
+          ]
+        },
+        {
+          "text": "diastolic pressure, and pulse rate simultaneously, along with a",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            340.04,
+            335.02,
+            355.16
+          ],
+          "block_bbox": [
+            33.0,
+            326.84,
+            380.27,
+            394.76
+          ],
+          "origin": [
+            33.0,
+            351.87
+          ]
+        },
+        {
+          "text": "classification indicator (see 2.1, 4.3 for related specifications and alarm",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            353.24,
+            377.81,
+            368.36
+          ],
+          "block_bbox": [
+            33.0,
+            326.84,
+            380.27,
+            394.76
+          ],
+          "origin": [
+            33.0,
+            365.07
+          ]
+        },
+        {
+          "text": "thresholds) based on the most recent joint clinical guidance available at",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            366.44,
+            380.27,
+            381.56
+          ],
+          "block_bbox": [
+            33.0,
+            326.84,
+            380.27,
+            394.76
+          ],
+          "origin": [
+            33.0,
+            378.27
+          ]
+        },
+        {
+          "text": "time of manufacture.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            379.64,
+            133.26,
+            394.76
+          ],
+          "block_bbox": [
+            33.0,
+            326.84,
+            380.27,
+            394.76
+          ],
+          "origin": [
+            33.0,
+            391.47
+          ]
+        },
+        {
+          "text": "1. Normal: systolic < 120 and diastolic < 80",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.77,
+            403.84,
+            260.47,
+            418.96
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            50.77,
+            415.67
+          ]
+        },
+        {
+          "text": "2. Elevated: systolic 120–129 and diastolic < 80",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.77,
+            417.04,
+            282.81,
+            432.16
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            50.77,
+            428.87
+          ]
+        },
+        {
+          "text": "3. Hypertension Stage 1: systolic 130–139 or diastolic 80–89",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.77,
+            430.24,
+            346.08,
+            445.36
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            50.77,
+            442.07
+          ]
+        },
+        {
+          "text": "4. Hypertension Stage 2: systolic ≥ 140 or diastolic ≥ 90",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.77,
+            443.44,
+            321.47,
+            458.56
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            50.77,
+            455.27
+          ]
+        },
+        {
+          "text": "5. Hypertensive Crisis: systolic > 180 or diastolic > 120 — device",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.77,
+            456.64,
+            366.21,
+            471.76
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            50.77,
+            468.47
+          ]
+        },
+        {
+          "text": "recommends seeking immediate medical attention",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            63.0,
+            469.84,
+            307.53,
+            484.96
+          ],
+          "block_bbox": [
+            50.77,
+            403.84,
+            366.21,
+            484.96
+          ],
+          "origin": [
+            63.0,
+            481.67
+          ]
+        },
+        {
+          "text": "4. Alarms and Safety Behavior",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            509.66,
+            270.5,
+            532.38
+          ],
+          "block_bbox": [
+            33.0,
+            509.66,
+            270.5,
+            532.38
+          ],
+          "origin": [
+            33.0,
+            527.32
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            535.57,
+            387.0,
+            536.57
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    },
+    {
+      "page_number": 4,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "4.1 Overpressure Protection",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            30.81,
+            205.38,
+            48.53
+          ],
+          "block_bbox": [
+            33.0,
+            30.81,
+            205.38,
+            48.53
+          ],
+          "origin": [
+            33.0,
+            44.58
+          ]
+        },
+        {
+          "text": "If cuff pressure exceeds 299 mmHg at any point, or exceeds 300 mmHg",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            59.39,
+            383.32,
+            74.5
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            383.32,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            71.21
+          ]
+        },
+        {
+          "text": "for longer than 3 seconds due to sensor fault, the device immediately",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            72.59,
+            368.66,
+            87.7
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            383.32,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            84.41
+          ]
+        },
+        {
+          "text": "triggers an emergency deflation valve, halting inflation and venting the",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            85.79,
+            373.56,
+            100.9
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            383.32,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            97.61
+          ]
+        },
+        {
+          "text": "cuff within 2 seconds, independent of the main firmware control loop.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            98.99,
+            367.43,
+            114.1
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            383.32,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            110.81
+          ]
+        },
+        {
+          "text": "4.2 Error Codes",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            135.8,
+            128.84,
+            153.52
+          ],
+          "block_bbox": [
+            33.0,
+            135.8,
+            128.84,
+            153.52
+          ],
+          "origin": [
+            33.0,
+            149.57
+          ]
+        },
+        {
+          "text": "Code",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            39.5,
+            168.18,
+            67.0,
+            183.32
+          ],
+          "block_bbox": [
+            39.5,
+            168.18,
+            340.91,
+            183.32
+          ],
+          "origin": [
+            39.5,
+            179.95
+          ]
+        },
+        {
+          "text": "Meaning",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            119.05,
+            168.18,
+            163.67,
+            183.32
+          ],
+          "block_bbox": [
+            39.5,
+            168.18,
+            340.91,
+            183.32
+          ],
+          "origin": [
+            119.05,
+            179.95
+          ]
+        },
+        {
+          "text": "Device Behavior",
+          "font": "NimbusSans-Bold",
+          "size": 11.0,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            255.32,
+            168.18,
+            340.91,
+            183.32
+          ],
+          "block_bbox": [
+            39.5,
+            168.18,
+            340.91,
+            183.32
+          ],
+          "origin": [
+            255.32,
+            179.95
+          ]
+        },
+        {
+          "text": "E1",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            187.82,
+            52.95,
+            202.94
+          ],
+          "block_bbox": [
+            39.5,
+            187.82,
+            184.17,
+            216.14
+          ],
+          "origin": [
+            39.5,
+            199.65
+          ]
+        },
+        {
+          "text": "Cuff not connected or",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            187.82,
+            184.17,
+            202.94
+          ],
+          "block_bbox": [
+            39.5,
+            187.82,
+            184.17,
+            216.14
+          ],
+          "origin": [
+            79.0,
+            199.65
+          ]
+        },
+        {
+          "text": "leak detected",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            201.02,
+            144.43,
+            216.14
+          ],
+          "block_bbox": [
+            39.5,
+            187.82,
+            184.17,
+            216.14
+          ],
+          "origin": [
+            79.0,
+            212.85
+          ]
+        },
+        {
+          "text": "Aborts measurement, displays E1",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            187.82,
+            380.18,
+            202.94
+          ],
+          "block_bbox": [
+            215.73,
+            187.82,
+            380.18,
+            202.94
+          ],
+          "origin": [
+            215.73,
+            199.65
+          ]
+        },
+        {
+          "text": "E2",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            220.72,
+            52.95,
+            235.84
+          ],
+          "block_bbox": [
+            39.5,
+            220.72,
+            193.33,
+            249.04
+          ],
+          "origin": [
+            39.5,
+            232.55
+          ]
+        },
+        {
+          "text": "Motion artifact detected",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            220.72,
+            193.33,
+            235.84
+          ],
+          "block_bbox": [
+            39.5,
+            220.72,
+            193.33,
+            249.04
+          ],
+          "origin": [
+            79.0,
+            232.55
+          ]
+        },
+        {
+          "text": "during measurement",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            233.92,
+            179.87,
+            249.04
+          ],
+          "block_bbox": [
+            39.5,
+            220.72,
+            193.33,
+            249.04
+          ],
+          "origin": [
+            79.0,
+            245.75
+          ]
+        },
+        {
+          "text": "Aborts measurement, displays",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            220.72,
+            363.66,
+            235.84
+          ],
+          "block_bbox": [
+            215.73,
+            220.72,
+            363.66,
+            249.04
+          ],
+          "origin": [
+            215.73,
+            232.55
+          ]
+        },
+        {
+          "text": "E2, prompts retry",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            233.92,
+            300.08,
+            249.04
+          ],
+          "block_bbox": [
+            215.73,
+            220.72,
+            363.66,
+            249.04
+          ],
+          "origin": [
+            215.73,
+            245.75
+          ]
+        },
+        {
+          "text": "E3",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            253.62,
+            52.95,
+            268.74
+          ],
+          "block_bbox": [
+            39.5,
+            253.62,
+            367.97,
+            281.94
+          ],
+          "origin": [
+            39.5,
+            265.45
+          ]
+        },
+        {
+          "text": "Overpressure condition",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            253.62,
+            192.71,
+            268.74
+          ],
+          "block_bbox": [
+            39.5,
+            253.62,
+            367.97,
+            281.94
+          ],
+          "origin": [
+            79.0,
+            265.45
+          ]
+        },
+        {
+          "text": "Auto-deflates within 2 seconds,",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            253.62,
+            367.97,
+            268.74
+          ],
+          "block_bbox": [
+            39.5,
+            253.62,
+            367.97,
+            281.94
+          ],
+          "origin": [
+            215.73,
+            265.45
+          ]
+        },
+        {
+          "text": "displays E3",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            266.82,
+            271.97,
+            281.94
+          ],
+          "block_bbox": [
+            39.5,
+            253.62,
+            367.97,
+            281.94
+          ],
+          "origin": [
+            215.73,
+            278.65
+          ]
+        },
+        {
+          "text": "E4",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            286.52,
+            52.95,
+            301.64
+          ],
+          "block_bbox": [
+            39.5,
+            286.52,
+            169.49,
+            314.84
+          ],
+          "origin": [
+            39.5,
+            298.35
+          ]
+        },
+        {
+          "text": "Low battery during",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            286.52,
+            169.49,
+            301.64
+          ],
+          "block_bbox": [
+            39.5,
+            286.52,
+            169.49,
+            314.84
+          ],
+          "origin": [
+            79.0,
+            298.35
+          ]
+        },
+        {
+          "text": "measurement",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            299.72,
+            146.24,
+            314.84
+          ],
+          "block_bbox": [
+            39.5,
+            286.52,
+            169.49,
+            314.84
+          ],
+          "origin": [
+            79.0,
+            311.55
+          ]
+        },
+        {
+          "text": "Aborts measurement, displays E4",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            286.52,
+            380.18,
+            301.64
+          ],
+          "block_bbox": [
+            215.73,
+            286.52,
+            380.18,
+            301.64
+          ],
+          "origin": [
+            215.73,
+            298.35
+          ]
+        },
+        {
+          "text": "E5",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            39.5,
+            319.42,
+            52.95,
+            334.54
+          ],
+          "block_bbox": [
+            39.5,
+            319.42,
+            363.05,
+            360.94
+          ],
+          "origin": [
+            39.5,
+            331.25
+          ]
+        },
+        {
+          "text": "Internal sensor fault",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            79.0,
+            319.42,
+            175.6,
+            334.54
+          ],
+          "block_bbox": [
+            39.5,
+            319.42,
+            363.05,
+            360.94
+          ],
+          "origin": [
+            79.0,
+            331.25
+          ]
+        },
+        {
+          "text": "Device disables measurement",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            319.42,
+            363.05,
+            334.54
+          ],
+          "block_bbox": [
+            39.5,
+            319.42,
+            363.05,
+            360.94
+          ],
+          "origin": [
+            215.73,
+            331.25
+          ]
+        },
+        {
+          "text": "function, displays E5 until",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            332.62,
+            339.84,
+            347.74
+          ],
+          "block_bbox": [
+            39.5,
+            319.42,
+            363.05,
+            360.94
+          ],
+          "origin": [
+            215.73,
+            344.45
+          ]
+        },
+        {
+          "text": "serviced",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.73,
+            345.82,
+            256.68,
+            360.94
+          ],
+          "block_bbox": [
+            39.5,
+            319.42,
+            363.05,
+            360.94
+          ],
+          "origin": [
+            215.73,
+            357.65
+          ]
+        },
+        {
+          "text": "4.3 Alarm Thresholds",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            385.88,
+            163.89,
+            403.6
+          ],
+          "block_bbox": [
+            33.0,
+            385.88,
+            163.89,
+            403.6
+          ],
+          "origin": [
+            33.0,
+            399.65
+          ]
+        },
+        {
+          "text": "The device does not sound an audible alarm for elevated readings by",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            414.46,
+            369.9,
+            429.57
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            33.0,
+            426.28
+          ]
+        },
+        {
+          "text": "default; audible alarms are limited to the E1–E5 error conditions above",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            427.66,
+            375.99,
+            442.77
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            33.0,
+            439.48
+          ]
+        },
+        {
+          "text": "and are user",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            440.86,
+            94.75,
+            455.97
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            33.0,
+            452.68
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            94.75,
+            440.92,
+            98.16,
+            455.9
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            94.75,
+            452.68
+          ]
+        },
+        {
+          "text": "configurable in the settings menu, except for E3",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            98.16,
+            440.86,
+            330.51,
+            455.97
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            98.16,
+            452.68
+          ]
+        },
+        {
+          "text": "(overpressure), which cannot be silenced for safety reasons.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            454.06,
+            327.06,
+            469.17
+          ],
+          "block_bbox": [
+            33.0,
+            414.46,
+            375.99,
+            469.17
+          ],
+          "origin": [
+            33.0,
+            465.88
+          ]
+        },
+        {
+          "text": "5. Data Management",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            493.88,
+            192.54,
+            516.6
+          ],
+          "block_bbox": [
+            33.0,
+            493.88,
+            192.54,
+            516.6
+          ],
+          "origin": [
+            33.0,
+            511.53
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            166.3,
+            73.5,
+            167.3
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            166.3,
+            73.5,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            186.0,
+            73.5,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            166.3,
+            34.0,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            166.3,
+            210.23,
+            167.3
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            209.23,
+            166.3,
+            210.23,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            186.0,
+            210.23,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            209.23,
+            166.3,
+            387.0,
+            167.3
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            386.0,
+            166.3,
+            387.0,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            209.23,
+            186.0,
+            387.0,
+            187.0
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            186.0,
+            73.5,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            218.9,
+            73.5,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            186.0,
+            34.0,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            209.23,
+            186.0,
+            210.23,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            218.9,
+            210.23,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            386.0,
+            186.0,
+            387.0,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            209.23,
+            218.9,
+            387.0,
+            219.9
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            34.0,
+            219.9,
+            72.5,
+            251.8
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            72.5,
+            218.9,
+            73.5,
+            252.8
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            251.8,
+            73.5,
+            252.8
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    },
+    {
+      "page_number": 5,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "5.1 Local Storage",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            30.81,
+            139.58,
+            48.53
+          ],
+          "block_bbox": [
+            33.0,
+            30.81,
+            139.58,
+            48.53
+          ],
+          "origin": [
+            33.0,
+            44.58
+          ]
+        },
+        {
+          "text": "The CT",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            59.39,
+            69.67,
+            74.5
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            71.21
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            69.67,
+            59.46,
+            73.08,
+            74.44
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            69.67,
+            71.21
+          ]
+        },
+        {
+          "text": "200 stores up to 100 readings per user profile in non",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            73.08,
+            59.39,
+            328.05,
+            74.5
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            73.08,
+            71.21
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            328.05,
+            59.46,
+            331.46,
+            74.44
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            328.05,
+            71.21
+          ]
+        },
+        {
+          "text": "volatile",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            331.46,
+            59.39,
+            365.7,
+            74.5
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            331.46,
+            71.21
+          ]
+        },
+        {
+          "text": "memory. When storage is full, the oldest reading for that profile is",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            72.59,
+            350.29,
+            87.7
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            84.41
+          ]
+        },
+        {
+          "text": "overwritten automatically; there is no user",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            85.79,
+            235.96,
+            100.9
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            97.61
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            235.96,
+            85.86,
+            239.37,
+            100.84
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            235.96,
+            97.61
+          ]
+        },
+        {
+          "text": "facing warning before this",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            239.37,
+            85.79,
+            364.7,
+            100.9
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            239.37,
+            97.61
+          ]
+        },
+        {
+          "text": "occurs.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            98.99,
+            68.45,
+            114.1
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            365.7,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            110.81
+          ]
+        },
+        {
+          "text": "5.2 Bluetooth Sync",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            135.8,
+            148.86,
+            153.52
+          ],
+          "block_bbox": [
+            33.0,
+            135.8,
+            148.86,
+            153.52
+          ],
+          "origin": [
+            33.0,
+            149.57
+          ]
+        },
+        {
+          "text": "The device can pair with the CardioTrack companion app via Bluetooth",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            164.37,
+            377.82,
+            179.49
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            383.95,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            176.2
+          ]
+        },
+        {
+          "text": "Low Energy. Readings sync automatically when the app is open and the",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            177.57,
+            383.95,
+            192.69
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            383.95,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            189.4
+          ]
+        },
+        {
+          "text": "device is within range; there is no manual \"sync now\" trigger in firmware",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            190.77,
+            382.54,
+            205.89
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            383.95,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            202.6
+          ]
+        },
+        {
+          "text": "version 1.x.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            203.97,
+            89.24,
+            219.09
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            383.95,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            215.8
+          ]
+        },
+        {
+          "text": "6. Maintenance and Cleaning",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            243.79,
+            259.48,
+            266.51
+          ],
+          "block_bbox": [
+            33.0,
+            243.79,
+            259.48,
+            266.51
+          ],
+          "origin": [
+            33.0,
+            261.45
+          ]
+        },
+        {
+          "text": "6.1 Cleaning Instructions",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            297.88,
+            186.05,
+            315.6
+          ],
+          "block_bbox": [
+            33.0,
+            297.88,
+            186.05,
+            315.6
+          ],
+          "origin": [
+            33.0,
+            311.65
+          ]
+        },
+        {
+          "text": "Wipe the device body and cuff exterior with a soft, dry cloth or one lightly",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            326.46,
+            385.77,
+            341.57
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            385.77,
+            367.97
+          ],
+          "origin": [
+            33.0,
+            338.28
+          ]
+        },
+        {
+          "text": "dampened with water. Do not submerge the device or cuff, and do not",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            339.66,
+            372.96,
+            354.77
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            385.77,
+            367.97
+          ],
+          "origin": [
+            33.0,
+            351.48
+          ]
+        },
+        {
+          "text": "use alcohol, solvents, or abrasive cleaners on the display.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            352.86,
+            314.24,
+            367.97
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            385.77,
+            367.97
+          ],
+          "origin": [
+            33.0,
+            364.68
+          ]
+        },
+        {
+          "text": "6.2 Calibration",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            389.66,
+            121.69,
+            407.39
+          ],
+          "block_bbox": [
+            33.0,
+            389.66,
+            121.69,
+            407.39
+          ],
+          "origin": [
+            33.0,
+            403.44
+          ]
+        },
+        {
+          "text": "Anthropic recommends professional recalibration every 2 years or after",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            418.24,
+            378.4,
+            433.36
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            33.0,
+            430.07
+          ]
+        },
+        {
+          "text": "any drop or significant impact. The device does not perform",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            431.44,
+            322.18,
+            446.56
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            33.0,
+            443.27
+          ]
+        },
+        {
+          "text": "self",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            444.64,
+            50.12,
+            459.76
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            33.0,
+            456.47
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            50.12,
+            444.71,
+            53.53,
+            459.69
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            50.12,
+            456.47
+          ]
+        },
+        {
+          "text": "calibration; there is no field calibration procedure available to end",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            53.53,
+            444.64,
+            370.23,
+            459.76
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            53.53,
+            456.47
+          ]
+        },
+        {
+          "text": "users.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            457.84,
+            62.95,
+            472.96
+          ],
+          "block_bbox": [
+            33.0,
+            418.24,
+            378.4,
+            472.96
+          ],
+          "origin": [
+            33.0,
+            469.67
+          ]
+        },
+        {
+          "text": "7. Troubleshooting",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            497.66,
+            181.52,
+            520.38
+          ],
+          "block_bbox": [
+            33.0,
+            497.66,
+            181.52,
+            520.38
+          ],
+          "origin": [
+            33.0,
+            515.32
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            269.7,
+            387.0,
+            270.7
+          ],
+          "type": "f"
+        },
+        {
+          "rect": [
+            33.0,
+            523.57,
+            387.0,
+            524.57
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    },
+    {
+      "page_number": 6,
+      "width": 420.0,
+      "height": 595.0,
+      "spans": [
+        {
+          "text": "7.1 Error Codes",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            30.81,
+            128.84,
+            48.53
+          ],
+          "block_bbox": [
+            33.0,
+            30.81,
+            128.84,
+            48.53
+          ],
+          "origin": [
+            33.0,
+            44.58
+          ]
+        },
+        {
+          "text": "If a code from Section 4.2 appears and persists after following the",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            59.39,
+            352.77,
+            74.5
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            71.21
+          ]
+        },
+        {
+          "text": "on",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            72.59,
+            45.23,
+            87.7
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            84.41
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            45.23,
+            72.66,
+            48.64,
+            87.64
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            45.23,
+            84.41
+          ]
+        },
+        {
+          "text": "screen retry prompt twice, users should discontinue use and contact",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            48.64,
+            72.59,
+            380.01,
+            87.7
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            48.64,
+            84.41
+          ]
+        },
+        {
+          "text": "CardioTrack support rather than attempting further self",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            85.79,
+            298.33,
+            100.9
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            97.61
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            298.33,
+            85.86,
+            301.74,
+            100.84
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            298.33,
+            97.61
+          ]
+        },
+        {
+          "text": "diagnosis,",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            301.74,
+            85.79,
+            351.26,
+            100.9
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            301.74,
+            97.61
+          ]
+        },
+        {
+          "text": "particularly for E5, which indicates an internal sensor fault.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            98.99,
+            316.67,
+            114.1
+          ],
+          "block_bbox": [
+            33.0,
+            59.39,
+            380.01,
+            114.1
+          ],
+          "origin": [
+            33.0,
+            110.81
+          ]
+        },
+        {
+          "text": "7.2 Inconsistent Readings",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            135.8,
+            191.78,
+            153.52
+          ],
+          "block_bbox": [
+            33.0,
+            135.8,
+            191.78,
+            153.52
+          ],
+          "origin": [
+            33.0,
+            149.57
+          ]
+        },
+        {
+          "text": "Inconsistent readings between measurements are most commonly",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            164.37,
+            356.4,
+            179.49
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            385.75,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            176.2
+          ]
+        },
+        {
+          "text": "caused by cuff mispositioning, talking or moving during measurement, or",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            177.57,
+            385.75,
+            192.69
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            385.75,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            189.4
+          ]
+        },
+        {
+          "text": "measuring within 30 minutes of exercise, caffeine, or smoking; the",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            190.77,
+            354.57,
+            205.89
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            385.75,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            202.6
+          ]
+        },
+        {
+          "text": "manual recommends resting quietly for 5 minutes before remeasuring.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            203.97,
+            374.74,
+            219.09
+          ],
+          "block_bbox": [
+            33.0,
+            164.37,
+            385.75,
+            219.09
+          ],
+          "origin": [
+            33.0,
+            215.8
+          ]
+        },
+        {
+          "text": "8. Regulatory Information",
+          "font": "NimbusSans-Bold",
+          "size": 16.5,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            243.79,
+            232.86,
+            266.51
+          ],
+          "block_bbox": [
+            33.0,
+            243.79,
+            232.86,
+            266.51
+          ],
+          "origin": [
+            33.0,
+            261.45
+          ]
+        },
+        {
+          "text": "8.1 Classification",
+          "font": "NimbusSans-Bold",
+          "size": 12.87,
+          "bold": true,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            33.0,
+            297.88,
+            138.15,
+            315.6
+          ],
+          "block_bbox": [
+            33.0,
+            297.88,
+            138.15,
+            315.6
+          ],
+          "origin": [
+            33.0,
+            311.65
+          ]
+        },
+        {
+          "text": "The CT",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            326.46,
+            69.67,
+            341.57
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            33.0,
+            338.28
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            69.67,
+            326.52,
+            73.08,
+            341.51
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            69.67,
+            338.28
+          ]
+        },
+        {
+          "text": "200 is classified as a Class II medical device under applicable",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            73.08,
+            326.46,
+            373.87,
+            341.57
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            73.08,
+            338.28
+          ]
+        },
+        {
+          "text": "regulations for non",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            339.66,
+            124.1,
+            354.77
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            33.0,
+            351.48
+          ]
+        },
+        {
+          "text": "‑",
+          "font": "NotoSerif-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            124.1,
+            339.72,
+            127.51,
+            354.71
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            124.1,
+            351.48
+          ]
+        },
+        {
+          "text": "invasive blood pressure monitors and has been",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            127.51,
+            339.66,
+            358.01,
+            354.77
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            127.51,
+            351.48
+          ]
+        },
+        {
+          "text": "validated against relevant clinical accuracy standards for oscillometric",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            352.86,
+            371.67,
+            367.97
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            33.0,
+            364.68
+          ]
+        },
+        {
+          "text": "devices.",
+          "font": "NimbusSans-Regular",
+          "size": 11.0,
+          "bold": false,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            33.0,
+            366.06,
+            73.35,
+            381.17
+          ],
+          "block_bbox": [
+            33.0,
+            326.46,
+            373.87,
+            381.17
+          ],
+          "origin": [
+            33.0,
+            377.88
+          ]
+        }
+      ],
+      "images": [],
+      "drawings": [
+        {
+          "rect": [
+            33.0,
+            269.7,
+            387.0,
+            270.7
+          ],
+          "type": "f"
+        }
+      ],
+      "tables_detected": false
+    }
+  ],
+  "summary": {
+    "total_spans": 176,
+    "unique_fonts": [
+      "NimbusSans-Bold",
+      "NimbusSans-Regular",
+      "NotoSerif-Regular"
+    ],
+    "unique_sizes": [
+      11.0,
+      12.87,
+      16.5,
+      22.0
+    ],
+    "total_images": 0,
+    "pages_with_tables": [],
+    "pages_with_drawings": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "bold_spans": 35
+  }
+}
