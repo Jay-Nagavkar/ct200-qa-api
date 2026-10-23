@@ -1,0 +1,17 @@
+# Pinned dependencies for CardioTrack CT-200 QA API
+fastapi==0.161.1
+uvicorn==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.16.1
+SQLAlchemy==2.1.6
+pymupdf==2.0
+RapidFuzz==3.14.6
+pymongo==4.19.0
+python-multipart==0.0.32
+python-dotenv==1.2.4
+httpx==0.28.1
+
+# Testing & Quality
+pytest==9.1.1
+mongomock==4.3.0
+ruff==0.17.2
